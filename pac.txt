@@ -68,7 +68,7 @@ var rules = [
 	"||store.steampowered.com",
 	"||steamcommunity.com",
 	"||steamstatic.com",
-	"@@||doub.io"
+#	"@@||doub.io"
 ];
 
 /*
