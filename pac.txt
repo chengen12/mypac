@@ -48,7 +48,7 @@ var rules = [
 	"||yazhouse8.com",
 	"||example.com",
 	"||lesspass.com",
-	"||doub.io",
+	".youtube.com",
 	"||googlevideo.com",
 	"||amazon.com",
 	"||github-production-release-asset-2e65be.s3.amazonaws.com",
